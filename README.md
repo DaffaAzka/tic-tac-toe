@@ -16,7 +16,7 @@ bin/tic_tac_toe.exe
 ```
 
 
-## Guide
+## Pattern Guide
 
 ```bash
 ===================
